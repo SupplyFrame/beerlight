@@ -1,8 +1,8 @@
-== Beer Light! ==
+# Beer Light!
 
 This is a simple Python app to serve a web page that toggles the beer light at the SupplyFrame HQ.
 
-=== Installation ===
+## Installation
 
 If you are running on OS X first check to ensure the commandline xcode tools are installed, you'll need to run this with a GUI (at a machine or remote desktop):
 
